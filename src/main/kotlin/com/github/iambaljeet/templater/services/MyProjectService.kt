@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.iambaljeet.templater.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.iambaljeet.templater.MyBundle
 
 class MyProjectService(project: Project) {
 

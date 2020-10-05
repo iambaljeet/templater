@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.iambaljeet.templater.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.iambaljeet.templater.MyBundle
 
 class MyApplicationService {
 
